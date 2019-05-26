@@ -94,7 +94,7 @@ G.add_edges_from(pairs)
 plt.figure(3,figsize=(12,12)) 
 nx.draw(G, with_labels=True, pos=nx.spring_layout(G))
 
-#%% [Markdown]
+#%% [markdown]
 # ## Search agent
 # At every iteration in BFS, `pathes` will be reordered so that the most proritized `path` will be
 # placed at front. I created a object called `cost` as a abstract term to be used as key for prioritizing.

@@ -137,7 +137,7 @@ for i in need_compared:
             print(compare_(i, j))
 
 
-# %%
+# %% [markdown]
 # ### Applications 
 # * Voice Recognization
 # * Sogou pinyin input

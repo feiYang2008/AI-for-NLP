@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2564e7e7-11c8-44a0-8dbe-b7e2a26d110a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q3-Answering-questions.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework-2/Language-Model-for-Wiki.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework-2/Language-Model-for-Wiki.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework-3/.idea/workspace.xml" afterDir="false" />
@@ -22,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Edit_distance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
+            <state relative-caret-position="950">
               <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
             </state>
           </provider>
@@ -32,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/Route-planning.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
               <folding>
                 <element signature="e#16#29#0" expanded="true" />
               </folding>
@@ -92,6 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,7 +103,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,12 +164,13 @@
       <option name="presentableId" value="Default" />
       <updated>1556319784976</updated>
       <workItem from="1556319786099" duration="7501000" />
-      <workItem from="1556339436675" duration="20317000" />
+      <workItem from="1556339436675" duration="21425000" />
+      <workItem from="1556575748875" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27818000" />
+    <option name="totallyTimeSpent" value="29025000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -183,12 +183,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1600" y="-2" width="1920" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2012848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20396146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Jupyter" weight="0.32897604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
@@ -200,8 +198,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32897604" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.33006537" />
+      <window_info anchor="bottom" id="Jupyter" order="13" weight="0.32897604" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -217,37 +216,29 @@
     <SUITE FILE_PATH="coverage/Homework_4$Route_planning.coverage" NAME="Route-planning Coverage Results" MODIFIED="1556357746701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/route-planning.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/route-planning.ipynb" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/Edit_distance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="950">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q5-k-salesman-problem.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Route-planning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
           <folding>
             <element signature="e#16#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Edit_distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Q1-2-Edit-Distance.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q5-k-salesman-problem.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Q3-Answering-questions.ipynb">
